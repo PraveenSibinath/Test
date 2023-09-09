@@ -1,0 +1,167 @@
+Invalid port. Exiting...
+1682005661484	geckodriver	INFO	Listening on 127.0.0.1:57120
+1682005664555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofilegTMVJ7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682005664826	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682005664830	Marionette	INFO	Listening on port 57131
+Read port: 57131
+WebDriver BiDi listening on ws://127.0.0.1:57121
+1682005664960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofilegTMVJ7\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57121/devtools/browser/aebb25dc-f29f-42ce-86d1-55f362a9b044
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yi/l/en_GB/-Bu40sFsRhI.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1682005672709	Marionette	INFO	Stopped listening on port 57131
+Dynamically enable window occlusion 1
+1682005694919	geckodriver	INFO	Listening on 127.0.0.1:57209
+1682005698009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofileB0Fjs8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682005698240	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682005698243	Marionette	INFO	Listening on port 57219
+WebDriver BiDi listening on ws://127.0.0.1:57210
+Read port: 57219
+1682005698376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofileB0Fjs8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57210/devtools/browser/b94e4b49-52ea-4a18-ba7f-243bbd45e450
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yi/l/en_GB/-Bu40sFsRhI.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1682005706040	Marionette	INFO	Stopped listening on port 57219
+Dynamically enable window occlusion 1
+1682010129018	geckodriver	INFO	Listening on 127.0.0.1:59401
+1682010132088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofileQvM61A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682010132323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682010132326	Marionette	INFO	Listening on port 59413
+Read port: 59413
+WebDriver BiDi listening on ws://127.0.0.1:59402
+1682010132467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofileQvM61A\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59402/devtools/browser/af75bf7f-8fc9-4f9f-bac4-abce9e525f2f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yi/l/en_GB/-Bu40sFsRhI.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:297:29
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:297:29\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:576:16\n"
+1682010139710	Marionette	INFO	Stopped listening on port 59413
+Dynamically enable window occlusion 1
+1682010162624	geckodriver	INFO	Listening on 127.0.0.1:59488
+1682010165682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofilef8AQud"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682010165911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682010165914	Marionette	INFO	Listening on port 59499
+WebDriver BiDi listening on ws://127.0.0.1:59489
+Read port: 59499
+1682010166103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofilef8AQud\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59489/devtools/browser/3812320d-d586-44c3-9201-77ba982d6a31
+1682010169124	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://profile.oracle.com."
+1682010174073	Marionette	INFO	Stopped listening on port 59499
+Dynamically enable window occlusion 1
+1682010326776	geckodriver	INFO	Listening on 127.0.0.1:59685
+1682010329827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofileiXh5ld"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682010330058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682010330061	Marionette	INFO	Listening on port 59695
+WebDriver BiDi listening on ws://127.0.0.1:59686
+Read port: 59695
+1682010330257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofileiXh5ld\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59686/devtools/browser/78113b61-fa69-4c64-977e-b6b1f2c73fb6
+1682010332519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://profile.oracle.com."
+1682010347749	Marionette	INFO	Stopped listening on port 59695
+Dynamically enable window occlusion 1
+1682010432469	geckodriver	INFO	Listening on 127.0.0.1:59850
+1682010435545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofile4Rb0Er"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682010435775	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682010435778	Marionette	INFO	Listening on port 59860
+WebDriver BiDi listening on ws://127.0.0.1:59851
+Read port: 59860
+1682010435984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofile4Rb0Er\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59851/devtools/browser/03c7acf0-537f-474d-a752-56c72b1d957d
+1682010437858	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://profile.oracle.com."
+1682010453861	Marionette	INFO	Stopped listening on port 59860
+Dynamically enable window occlusion 1
+1682010495894	geckodriver	INFO	Listening on 127.0.0.1:59972
+1682010498968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofilegUaodf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682010499198	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682010499201	Marionette	INFO	Listening on port 59982
+WebDriver BiDi listening on ws://127.0.0.1:59973
+Read port: 59982
+1682010499335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofilegUaodf\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59973/devtools/browser/3ad94452-db6f-4389-8323-147adb8f7498
+1682010501731	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://profile.oracle.com."
+1682010507602	Marionette	INFO	Stopped listening on port 59982
+Dynamically enable window occlusion 1
+1682010523578	geckodriver	INFO	Listening on 127.0.0.1:60077
+1682010526625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofile3clQhd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682010526857	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682010526860	Marionette	INFO	Listening on port 60087
+Read port: 60087
+WebDriver BiDi listening on ws://127.0.0.1:60078
+1682010526991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nprav\\AppData\\Local\\Temp\\rust_mozprofile3clQhd\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60078/devtools/browser/4788c05a-fba9-421a-9b64-b3e98b091fb0
+1682010528838	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: unreachable code after return statement
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://profile.oracle.com/sjNGG/yvc/STzk/290eVQ/XO/V3EQhmNXSEOL/dR5QFScB/O3kwUWx/7AWc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://profile.oracle.com."
+1682010533806	Marionette	INFO	Stopped listening on port 60087
+Dynamically enable window occlusion 1
